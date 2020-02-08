@@ -1,0 +1,24 @@
+{
+  "name": "assignment_nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fast-csv": "^2.5.0",
+    "hashmap": "^2.4.0",
+    "install": "^0.12.2",
+    "moment": "^2.24.0",
+    "node-fetch": "^2.6.0",
+    "npm": "^6.13.7",
+    "request": "^2.88.0",
+    "winston": "^3.2.1"
+  },
+  "devDependencies": {
+    "ajv": "^6.5.5"
+  }
+}
