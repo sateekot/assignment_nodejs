@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "fast-csv": "^2.5.0",
+    "fast-csv": "^4.3.6",
     "hashmap": "^2.4.0",
     "install": "^0.12.2",
     "moment": "^2.24.0",
